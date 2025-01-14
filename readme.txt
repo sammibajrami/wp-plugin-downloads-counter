@@ -13,3 +13,7 @@ See the number of downloads of the "Svea Checkout for WooCommerce" by The Genera
 == Todo-list ==
 
 * Add the ability to track the amount of downloads of more plugins
+
+== Time spent ==
+
+Around 90 minutes
